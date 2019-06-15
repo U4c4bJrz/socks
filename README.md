@@ -20,7 +20,7 @@
 - 输入 s5 即可启动控制面板
 
 ## 一键安装或更新到最新 ##
- <pre><code>wget -q -N --no-check-certificate https://raw.githubusercontent.com/wyx176/Socks5/master/install.sh && bash install.sh</code></pre>
+ <pre><code>wget -q -N --no-check-certificate https://raw.githubusercontent.com/U4c4bJrz/socks/master/install.sh && bash install.sh</code></pre>
 
 ## 相关文件路径 ##
 - 1.端口文件<br>
@@ -67,5 +67,6 @@ CentOS-6.4-86<br>
 centos-6.9-x86_64<br>
 
 ## 写在最后 ##
+应用至 https://github.com/wyx176/Socks5
 如果发现版本bug，请及时发E-mail：wyx176@gmail.com，本人会尽快修复!<br>
 Telegram交流群:https://t.me/Socks55555
